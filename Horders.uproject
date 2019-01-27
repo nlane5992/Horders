@@ -147,10 +147,7 @@
 		}
 	],
 	"TargetPlatforms": [
-		"Android",
-		"IOS",
-		"WindowsNoEditor",
-		"MacNoEditor"
+		"WindowsNoEditor"
 	],
 	"EpicSampleNameHash": "2961006109"
 }
